@@ -1,0 +1,7 @@
+{
+  "name": "PARQ-Prueba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
